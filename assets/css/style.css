@@ -685,6 +685,8 @@ header .grid-layout nav .nav-list li a:hover {
   background-color: #110e1b;
   height: auto;
   padding: 32px;
+  min-height: 200px;
+  min-width: 40vw;
   margin: 8px;
   -ms-flex-preferred-size: calc(33% - 20px);
       flex-basis: calc(33% - 20px);
